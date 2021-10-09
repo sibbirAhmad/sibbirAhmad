@@ -1,4 +1,5 @@
-### Hi, I'm Abu Raihan Rony ! 👋
+### Hey, Welcome!
+I'm Sibbir Ahmad !
 <!--
 
 
@@ -14,14 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Management Application
-- 🌱 I’m currently learning Kotlin
-- 📫 How to reach me: [Facebook - @sibbirahmad.01](https://facebook.com/sibbirahmad.01) , [Linkedin - @sibbirahmad.01](https://www.linkedin.com/in/sibbirahmad.01/)
+- 🔭 I’m currently working on Android
+- 🌱 And learning java
+- 📫 You can find me on : [Facebook - @SibbirAhmad.01](https://facebook.com/SibbirAhmad.01) 
 
-[![Twitter: sibbirahmad.01](https://img.shields.io/twitter/follow/sibbirahmad?style=social)](https://twitter.com/sibbirahmad.01)
-[![Linkedin: sibbirahmad](https://img.shields.io/badge/-sibbirahmad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/sibbirahmad)](https://www.linkedin.com/in/sibbirahmad/)
+[![Twitter: SibbirAhmad01](https://img.shields.io/twitter/follow/SibbirAhmad01?style=social)](https://twitter.com/SibbirAhmad01)
 [![GitHub sibbirahmad](https://img.shields.io/github/followers/sibbirahmad?label=follow&style=social)](https://github.com/sibbirahmad)
-
+<!--[![Linkedin: sibbirahmad](https://img.shields.io/badge/-sibbirahmad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/sibbirahmad)](https://www.linkedin.com/in/sibbirahmad/) -->
 
 **Languages and Tools:**  
 
@@ -41,6 +41,6 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Thank you ❤️
 
 </div>
