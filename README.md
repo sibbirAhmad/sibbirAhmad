@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Android
-- 🌱 And learning java
+- 🔭 I’m currently working on Flutter
+- 🌱 And learning GoLang
 - 📫 You can find me on : [Facebook - @SibbirAhmad.01](https://facebook.com/SibbirAhmad.01) 
 
 [![Twitter: SibbirAhmad01](https://img.shields.io/twitter/follow/SibbirAhmad01?style=social)](https://twitter.com/SibbirAhmad01)
